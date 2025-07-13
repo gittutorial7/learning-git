@@ -1,4 +1,5 @@
 # learning-git
 
-Rw I'm learning about branching
-Thefrtcmand we learned is git clone
+
+Right now I'm learning about branching
+Te frs omand we learned is git clone
