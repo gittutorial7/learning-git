@@ -1,4 +1,4 @@
 # learning-git
 
-Right now I'm learning about branching
-The first command we learned is git clone
+Rw I'm learning about branching
+Thefrtcmand we learned is git clone
